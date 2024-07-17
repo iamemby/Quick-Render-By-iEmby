@@ -11,6 +11,6 @@ QUICK RENDER By iEmby || Specially For MP4 Format Renders || Main Stream & Socia
 - Collect Project Media if you want. It is just like Project Archive. But it will work one project at one time.
   So for nested projects you have to open nested projects one by one using Open Nested Timeline Icon Button at   
   bottom toolbar and then open this script and run it again which is not so long process believe me.
-- Open output folder if you want to check.
--Rename New Output file before render
-- Add Prefix before render
+- Open output folder if you want to check
+- Rename output file before render
+- Add Prefix with outful file before render
